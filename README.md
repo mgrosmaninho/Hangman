@@ -20,17 +20,15 @@ Logisim for creating the board and implementing software
 
 ### File Downloads:
 
-Request access (DM/email me) to the CDM8 Python Project that has been provided to us by the University of Hertfordshire.
-
 Download Logisim http://www.cburch.com/logisim/
 
 ### Instructions:
 
 - Run `cocoide.pyw` with Python3.
-- Using the cocoIDE interface, open `Pong Source 2 Software.asm`
+- Using the cocoIDE interface, open `Hangman_RAM_Program.asm`
 - Using the cocoIDE interface, save an image of the asm file. Naming it something memorable.
 - Run the Logisim application
-- Open `PongV2.circ` in Logisim
+- Open `Hangman_Circuit.circ` in Logisim
 - (If it requires a specific library, locate the libary (I would have provided this to you also))
 - Load the image you saved earlier (step 3) in the memory location with the word `code` underneath it
 - Enable `Simulation` & `Ticks` in Logisim. Now you should be good to go to get started!
