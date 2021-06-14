@@ -24,13 +24,17 @@ Download Logisim http://www.cburch.com/logisim/
 
 ### Instructions:
 
-- Run `cocoide.pyw` with Python3.
+- Run `cocoideV1.92.pyw` with Python3.
 - Using the cocoIDE interface, open `Hangman_RAM_Program.asm`
-- Using the cocoIDE interface, save an image of the asm file. Naming it something memorable.
+- Using the cocoIDE interface, save an image of the asm file.
+- Using the cocoIDE interface, open `Hangman_ROM_Program.asm`
+- Using the cocoIDE interface, save an image of the asm file.
 - Run the Logisim application
 - Open `Hangman_Circuit.circ` in Logisim
 - (If it requires a specific library, locate the libary (I would have provided this to you also))
-- Load the image you saved earlier (step 3) in the memory location with the word `code` underneath it
+- Load the ROM image to `instr memory`
+- Load the RAM image to `data memory`
+- Reset the circuit
 - Enable `Simulation` & `Ticks` in Logisim. Now you should be good to go to get started!
 
 ## Contact me!
