@@ -34,7 +34,6 @@ Download Logisim http://www.cburch.com/logisim/
 - (If it requires a specific library, locate the libary (I would have provided this to you also))
 - Load the ROM image to `instr memory`
 - Load the RAM image to `data memory`
-- Reset the circuit
 - Enable `Simulation` & `Ticks` in Logisim. Now you should be good to go to get started!
 
 ## Contact me!
