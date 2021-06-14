@@ -32,3 +32,7 @@ Download Logisim http://www.cburch.com/logisim/
 - (If it requires a specific library, locate the libary (I would have provided this to you also))
 - Load the image you saved earlier (step 3) in the memory location with the word `code` underneath it
 - Enable `Simulation` & `Ticks` in Logisim. Now you should be good to go to get started!
+
+## Contact me!
+
+For more information about this project, please email me at mgrosmaninho@hotmail.com
