@@ -1,3 +1,5 @@
+![Screenshot 2021-06-14 at 10 13 52](https://user-images.githubusercontent.com/50143720/121868824-56326b80-ccf9-11eb-8ee3-83e368d30615.png)
+
 # Hangman Project
 Coursework from University of Hertfordshire
 
