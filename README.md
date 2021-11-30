@@ -4,7 +4,7 @@
 Coursework from University of Hertfordshire
 
 ## Overview
-This was the 1st Year Uni group project for the Platforms for computing project. In this module, we learned about assembly language and the core concepts of computing logic, amongst various other vital lessons.
+This was the 1st Year Uni group project for the Platforms for Computing. In this module, we learned about assembly language and the core concepts of computing logic, amongst various other vital lessons.
 
 You can see a version of the retro game Hangman using a virtual 8-bit processor in this repository. The software side of the system used a custom assembly language from the university known as CDM8. To connect the software into the hardware, it was used a program called Logisim.
 
